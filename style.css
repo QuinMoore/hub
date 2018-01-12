@@ -1,0 +1,16 @@
+@font-face {font-family: ms;src: url(res/f-ms.ttf);}
+body {background: url(res/bg.gif)no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}
+h1{color: aliceblue;font-family: ms;}
+h2{font-size: 18px; color: aliceblue;font-family: ms; text-decoration: none;}
+p{color: aliceblue;font-family: ms;}
+.popup{-webkit-box-shadow:0 0 160px #c0392b; -moz-box-shadow: 0 0 160px #c0392b;box-shadow:0 0 160px #c0392b;background: url(res/popup.png);width: 700px ;margin-top:120px;margin-left: auto ;margin-right: auto ;padding-top:7px;padding-left:7px;padding-right:7px;padding-bottom:7px;text-align: center;}
+.column-left{float:left;width:33%;}
+.column-right{float:right;width:33%;}
+.column-center{display:inline-block;width:33%;padding-bottom:35px;}
+img {width:auto;}
+
+
